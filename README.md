@@ -1,8 +1,8 @@
-#FreeRTOS_Linux_Simulator
+# FreeRTOS_Linux_Simulator
 
 This workspace runs on Ubuntu 18.0.4 LTS with Eclipse CDT
 
-##Notes
+## Notes
 I cleared original main file and added only very basic single task that prints message periodically.
 
 Original Files -> https://www.freertos.org/FreeRTOS-simulator-for-Linux.html
